@@ -40,8 +40,6 @@ Para esta etapa se utilizó MySql para la construcción de la base de datos , li
 
 FInalmente luego de haber realizado el análisis exploratorio de los datos (EDA) y la construcción de la base datos con los datos finales cargados con los que voy a trabajar, procedí a realizar un dashboard interactivo en Power Bi con la finalidad de transformar los datos en información gráfica útil para el usuario final, dichas visualizaciones tienen como finalidad mostrar al usuario un panorama amplio de la situación de siniestros viales en la Ciudad de Buenos Aires, mostrandole información tal como evolución de  las muertes a causa de sinestros viales a lo largo del tiempo, cuales son las principales victimas de los hechos, zonas con mayor numero de victimas registrados, etc.
 
-<<Mostrar visualizaciones parciales?>>
-
 `Herramientos utlizadas`
 
 Para esta etapa se utlizó como herramienta de viusalización Power Bi.
