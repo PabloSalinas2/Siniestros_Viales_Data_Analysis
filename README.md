@@ -21,7 +21,7 @@ Para el analisis exploratorio de los datos su utilizaron las librerías Pandas y
 
 *Datos_extra.ipynb - EDA.ipynb*
 
-### 2 - BASE DE DATOS
+### 2 - Base de Datos
 `Procedimiento`
 
 Luego de la exploración de los datos procedi a la construcción de una base de datos utilizando como herramienta el motor de base de datos MySql, donde se construyeron las tablas necesarias para el proyecto, dichas tablas fueron completadas con los datos de los dataframes resultantes del proceso EDA.
@@ -34,7 +34,7 @@ Para esta etapa se utilizó MySql para la construcción de la base de datos , li
 
 *creacion_DB&tablas_mysql.sql*
 
-### 3 - VIZUALIZACIONES 
+### 3 - Vizualizaciones/Dashboard
 
 `Procedimiento`
 
