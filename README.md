@@ -51,5 +51,12 @@ Para esta etapa se utlizó como herramienta de viusalización Power Bi.
 Como resultado final presento el Dashboard desarrollado en Power Bi 
 
 
+### Dashboard final del proyecto 
+
+[dashboard_pagina1](extra/dashboard_page1.png)
+
+[dashboard_pagina2](extra/dashboard_page2.png)
+
+
 
 
